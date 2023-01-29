@@ -1,0 +1,5 @@
+Naziv proizvođača:  TENE                Potrošnja energije:             2500.30 W
+Naziv modela:       Osweets line 1      Maks. broj sati rada:          99000 sati
+Godina proizvodnje:                2006 Broj stepeni slobode kretanja:     6 sslk
+Pogon: HP                               Efikasnost:                   595985.63 #
+
